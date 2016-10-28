@@ -1,0 +1,12 @@
+[submodule "cycles-St1KS"]
+	path = cycles-St1KS
+	url = https://github.com/geekhub-python/cycles-St1KS.git
+[submodule "strings-St1KS"]
+	path = strings-St1KS
+	url = https://github.com/geekhub-python/strings-St1KS.git
+[submodule "if-else-conditions-lists-St1KS"]
+	path = if-else-conditions-lists-St1KS
+	url = https://github.com/geekhub-python/if-else-conditions-lists-St1KS.git
+[submodule "in-out-math-St1KS"]
+	path = in-out-math-St1KS
+	url = https://github.com/geekhub-python/in-out-math-St1KS.git
